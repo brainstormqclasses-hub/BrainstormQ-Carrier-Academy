@@ -1,0 +1,6 @@
+{
+  "name": "BrainstormQ Academy",
+  "description": "APSC, UPSC & Assam Govt Job Exam Prep with Mock Tests, Assamese & English Study Materials, PYQs, and Community Forum",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
